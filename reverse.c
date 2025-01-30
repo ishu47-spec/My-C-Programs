@@ -1,3 +1,4 @@
+/*This is a program that copies one array into another in reverse order.*/
 #include<stdio.h>
 
 int main() {
