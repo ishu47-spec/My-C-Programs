@@ -1,3 +1,4 @@
+/*This program finds a number and its frequency in array.*/
 #include<stdio.h>
 
 int main() {
