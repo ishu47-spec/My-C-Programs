@@ -1,3 +1,4 @@
+/*This program interchanges adjacent elements of an array.*/
 #include<stdio.h>
 
 int main() {
