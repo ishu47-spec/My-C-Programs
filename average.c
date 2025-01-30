@@ -1,3 +1,4 @@
+/* This program calculates the average marks obtained by 5 students in a test.*/
 #include<stdio.h>
 #include<conio.h>
 
