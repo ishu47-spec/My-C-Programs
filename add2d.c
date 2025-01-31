@@ -1,4 +1,4 @@
-/*This program takes input from user and adds elements of two 2D-arrays.*/
+/*This program takes input from user and adds elements of two 2D-arrays(matrices).*/
 #include<stdio.h>
 
 int main() {
