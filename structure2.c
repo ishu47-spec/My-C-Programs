@@ -1,3 +1,4 @@
+/*This program takes input and displays the info of 5 books using array in structure.*/
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
