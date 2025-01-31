@@ -1,3 +1,4 @@
+/*This program prints the transpose of a given matrix.*/
 #include<stdio.h>
 
 int main() {
