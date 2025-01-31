@@ -1,3 +1,4 @@
+/*This program finds the maximum element and it's row number of a 2D array.*/
 #include<stdio.h>
 int main() {
 int arr[3][3] = {1,22,32,54,65,222,4,6,8};
