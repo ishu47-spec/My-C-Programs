@@ -1,3 +1,4 @@
+/*This program counts maximum no. of 1's in a row.*/
 #include<stdio.h>
 
 int main() {
