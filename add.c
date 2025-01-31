@@ -1,3 +1,4 @@
+/*This program finds the sum of a 2*2 matrix.*/
 #include<stdio.h>
 
 int main() {
