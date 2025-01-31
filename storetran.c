@@ -1,3 +1,4 @@
+/*This program stores transpose of a given matrix into another.*/
 #include<stdio.h>
 
 int main() {
