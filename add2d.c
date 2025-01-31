@@ -1,3 +1,4 @@
+/*This program takes input from user and adds elements of two 2D-arrays.*/
 #include<stdio.h>
 
 int main() {
