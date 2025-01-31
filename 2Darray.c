@@ -1,15 +1,24 @@
-/*This program prints the components of a 2D-array.*/
 #include<stdio.h>
 
 int main() {
-int arr[4][2] = {{2,5},{44,23},{23,3},{3,111}};
-int i,j;
+    int i,j,r,c;
+printf("Enter the no. of rows: ");
+scanf("%d", &r);
+printf("\nEnter the no. of columns: ");
+scanf("%d", &c);
+int arr[r][c];
 
-for (i=0; i<4; i++) {
-    for (j=0; j<2; j++) {
-        printf("%d\t", arr[i][j]);
+for (i=0; i<r; i++) {
+    for (j=0; j<c; j++) {
+    scanf("%d", &arr[i][j]);
     }
-    printf("\n");
+}
+printf("\n");
+for (i=0; i<r; i++) {
+    for (j=0; j<c; j++) {
+    printf("%d\t", arr[i][j]);
+    }
+printf("\n");
 }
 return 0;
 }
