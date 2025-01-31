@@ -1,3 +1,4 @@
+/*This program takes input and displays the info of a book with the use of structure.*/
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
