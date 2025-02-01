@@ -1,3 +1,4 @@
+/*This program prints the minimum of 2 numbers using function.*/
 #include<stdio.h>
 
 int minimum(int x, int y) {
