@@ -2,8 +2,7 @@
 #include<stdio.h>
 
 int minimum(int x, int y) {
-int min = (x<y)? x:y;
-return min;
+return (x<y)? x:y;
 }
 
 int main() {
