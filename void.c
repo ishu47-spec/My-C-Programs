@@ -1,3 +1,4 @@
+/*This program uses a void-type function which returns no value.*/
 #include<stdio.h>
 
 void Nepal() {
@@ -8,7 +9,7 @@ return;
 void China() {
 printf("I love China.\n");
 Nepal();
-return;
+return;     //returns no value..
 }
 
 void India() {
@@ -19,5 +20,5 @@ return;
 
 int main() {
 India();
-return 0;
+return 0;         //int main function returns value '0'.
 }
