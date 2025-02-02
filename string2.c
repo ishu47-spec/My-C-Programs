@@ -1,5 +1,6 @@
+/*This program takes input and displays string without use of loop.*/
 #include<stdio.h>
-#include<string.h>
+#include<string.h>            
 
 int main() {
 char str[40];
