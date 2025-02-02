@@ -1,3 +1,4 @@
+/*This program reverses a string without use of strrev.*/
 #include<stdio.h>
 #include<string.h>
 #include<conio.h>
