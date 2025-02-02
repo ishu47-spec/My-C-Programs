@@ -1,3 +1,4 @@
+/*This program represents string initialization.*/
 #include<stdio.h>
 
 int main() {
