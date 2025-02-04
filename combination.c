@@ -1,3 +1,4 @@
+/*This program calculates the operation of combination using loops.*/
 #include<stdio.h>
 
 int main() {
