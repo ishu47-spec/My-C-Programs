@@ -15,11 +15,7 @@ int n,r;
 printf("Enter the value of n and r: ");
 scanf("%d%d", &n, &r);
 
-int nfact=factorial(n);
-int rfact=factorial(r);
-int nrfact=factorial(n-r);
-
-int ncr = nfact/(rfact*nrfact);
+int ncr = factorial(n)/(factorial(r)*factorial(n-r));
 printf("%d", ncr);
 return 0;
 
