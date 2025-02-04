@@ -1,3 +1,4 @@
+/*This program finds the combinational value using function.*/
 #include<stdio.h>
 
 int factorial(x) {
