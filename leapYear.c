@@ -1,3 +1,4 @@
+/*This program identifies whether a given year is leap year or not.*/
 #include<stdio.h>
 #include<conio.h>
 
